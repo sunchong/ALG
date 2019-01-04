@@ -1,0 +1,7 @@
+C:\Users\K-Jso\source\repos\ALGDataStructure\ALGDataStructure\bin\Debug\ALGDataStructure.exe.config
+C:\Users\K-Jso\source\repos\ALGDataStructure\ALGDataStructure\bin\Debug\ALGDataStructure.exe
+C:\Users\K-Jso\source\repos\ALGDataStructure\ALGDataStructure\bin\Debug\ALGDataStructure.pdb
+C:\Users\K-Jso\source\repos\ALGDataStructure\ALGDataStructure\obj\Debug\ALGData.csprojAssemblyReference.cache
+C:\Users\K-Jso\source\repos\ALGDataStructure\ALGDataStructure\obj\Debug\ALGData.csproj.CoreCompileInputs.cache
+C:\Users\K-Jso\source\repos\ALGDataStructure\ALGDataStructure\obj\Debug\ALGDataStructure.exe
+C:\Users\K-Jso\source\repos\ALGDataStructure\ALGDataStructure\obj\Debug\ALGDataStructure.pdb

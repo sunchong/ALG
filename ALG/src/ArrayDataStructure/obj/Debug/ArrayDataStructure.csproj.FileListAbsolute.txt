@@ -1,0 +1,7 @@
+C:\Users\K-Jso\source\repos\ALGDataStructure\ArrayDataStructure\bin\Debug\ArrayDataStructure.exe.config
+C:\Users\K-Jso\source\repos\ALGDataStructure\ArrayDataStructure\bin\Debug\ArrayDataStructure.exe
+C:\Users\K-Jso\source\repos\ALGDataStructure\ArrayDataStructure\bin\Debug\ArrayDataStructure.pdb
+C:\Users\K-Jso\source\repos\ALGDataStructure\ArrayDataStructure\obj\Debug\ArrayDataStructure.csprojAssemblyReference.cache
+C:\Users\K-Jso\source\repos\ALGDataStructure\ArrayDataStructure\obj\Debug\ArrayDataStructure.csproj.CoreCompileInputs.cache
+C:\Users\K-Jso\source\repos\ALGDataStructure\ArrayDataStructure\obj\Debug\ArrayDataStructure.exe
+C:\Users\K-Jso\source\repos\ALGDataStructure\ArrayDataStructure\obj\Debug\ArrayDataStructure.pdb
