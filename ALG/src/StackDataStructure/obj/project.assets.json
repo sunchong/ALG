@@ -687,11 +687,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Projects\\ALG\\ALG\\src\\StackDataStructure\\StackDataStructure.csproj",
+      "projectUniqueName": "F:\\project\\ALG\\ALG\\src\\StackDataStructure\\StackDataStructure.csproj",
       "projectName": "StackDataStructure",
-      "projectPath": "D:\\Projects\\ALG\\ALG\\src\\StackDataStructure\\StackDataStructure.csproj",
+      "projectPath": "F:\\project\\ALG\\ALG\\src\\StackDataStructure\\StackDataStructure.csproj",
       "packagesPath": "C:\\Users\\K-Jso\\.nuget\\packages\\",
-      "outputPath": "D:\\Projects\\ALG\\ALG\\src\\StackDataStructure\\obj\\",
+      "outputPath": "F:\\project\\ALG\\ALG\\src\\StackDataStructure\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -705,6 +705,7 @@
       ],
       "sources": {
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "C:\\nuget": {},
         "http://nuget.lunz.cn/nuget": {},
         "https://api.nuget.org/v3/index.json": {}
       },
