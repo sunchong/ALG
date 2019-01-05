@@ -1,0 +1,11 @@
+C:\Users\K-Jso\source\repos\ALGDataStructure\StackDataStructure\obj\Debug\netcoreapp2.1\StackDataStructure.csprojAssemblyReference.cache
+C:\Users\K-Jso\source\repos\ALGDataStructure\StackDataStructure\obj\Debug\netcoreapp2.1\StackDataStructure.csproj.CoreCompileInputs.cache
+C:\Users\K-Jso\source\repos\ALGDataStructure\StackDataStructure\obj\Debug\netcoreapp2.1\StackDataStructure.AssemblyInfoInputs.cache
+C:\Users\K-Jso\source\repos\ALGDataStructure\StackDataStructure\obj\Debug\netcoreapp2.1\StackDataStructure.AssemblyInfo.cs
+C:\Users\K-Jso\source\repos\ALGDataStructure\StackDataStructure\bin\Debug\netcoreapp2.1\StackDataStructure.deps.json
+C:\Users\K-Jso\source\repos\ALGDataStructure\StackDataStructure\bin\Debug\netcoreapp2.1\StackDataStructure.runtimeconfig.json
+C:\Users\K-Jso\source\repos\ALGDataStructure\StackDataStructure\bin\Debug\netcoreapp2.1\StackDataStructure.runtimeconfig.dev.json
+C:\Users\K-Jso\source\repos\ALGDataStructure\StackDataStructure\bin\Debug\netcoreapp2.1\StackDataStructure.dll
+C:\Users\K-Jso\source\repos\ALGDataStructure\StackDataStructure\bin\Debug\netcoreapp2.1\StackDataStructure.pdb
+C:\Users\K-Jso\source\repos\ALGDataStructure\StackDataStructure\obj\Debug\netcoreapp2.1\StackDataStructure.dll
+C:\Users\K-Jso\source\repos\ALGDataStructure\StackDataStructure\obj\Debug\netcoreapp2.1\StackDataStructure.pdb

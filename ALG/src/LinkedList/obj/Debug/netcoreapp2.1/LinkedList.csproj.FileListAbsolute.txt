@@ -1,0 +1,11 @@
+D:\Projects\ALG\ALG\src\LinkedList\bin\Debug\netcoreapp2.1\LinkedList.deps.json
+D:\Projects\ALG\ALG\src\LinkedList\bin\Debug\netcoreapp2.1\LinkedList.runtimeconfig.json
+D:\Projects\ALG\ALG\src\LinkedList\bin\Debug\netcoreapp2.1\LinkedList.runtimeconfig.dev.json
+D:\Projects\ALG\ALG\src\LinkedList\bin\Debug\netcoreapp2.1\LinkedList.dll
+D:\Projects\ALG\ALG\src\LinkedList\bin\Debug\netcoreapp2.1\LinkedList.pdb
+D:\Projects\ALG\ALG\src\LinkedList\obj\Debug\netcoreapp2.1\LinkedList.csprojAssemblyReference.cache
+D:\Projects\ALG\ALG\src\LinkedList\obj\Debug\netcoreapp2.1\LinkedList.csproj.CoreCompileInputs.cache
+D:\Projects\ALG\ALG\src\LinkedList\obj\Debug\netcoreapp2.1\LinkedList.AssemblyInfoInputs.cache
+D:\Projects\ALG\ALG\src\LinkedList\obj\Debug\netcoreapp2.1\LinkedList.AssemblyInfo.cs
+D:\Projects\ALG\ALG\src\LinkedList\obj\Debug\netcoreapp2.1\LinkedList.dll
+D:\Projects\ALG\ALG\src\LinkedList\obj\Debug\netcoreapp2.1\LinkedList.pdb
