@@ -1,0 +1,11 @@
+D:\Projects\ALG\ALG\src\Sort\bin\Debug\netcoreapp2.1\Sort.deps.json
+D:\Projects\ALG\ALG\src\Sort\bin\Debug\netcoreapp2.1\Sort.runtimeconfig.json
+D:\Projects\ALG\ALG\src\Sort\bin\Debug\netcoreapp2.1\Sort.runtimeconfig.dev.json
+D:\Projects\ALG\ALG\src\Sort\bin\Debug\netcoreapp2.1\Sort.dll
+D:\Projects\ALG\ALG\src\Sort\bin\Debug\netcoreapp2.1\Sort.pdb
+D:\Projects\ALG\ALG\src\Sort\obj\Debug\netcoreapp2.1\Sort.csprojAssemblyReference.cache
+D:\Projects\ALG\ALG\src\Sort\obj\Debug\netcoreapp2.1\Sort.csproj.CoreCompileInputs.cache
+D:\Projects\ALG\ALG\src\Sort\obj\Debug\netcoreapp2.1\Sort.AssemblyInfoInputs.cache
+D:\Projects\ALG\ALG\src\Sort\obj\Debug\netcoreapp2.1\Sort.AssemblyInfo.cs
+D:\Projects\ALG\ALG\src\Sort\obj\Debug\netcoreapp2.1\Sort.dll
+D:\Projects\ALG\ALG\src\Sort\obj\Debug\netcoreapp2.1\Sort.pdb

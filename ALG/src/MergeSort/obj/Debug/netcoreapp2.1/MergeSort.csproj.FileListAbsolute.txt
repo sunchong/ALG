@@ -1,0 +1,11 @@
+D:\Projects\ALG\ALG\src\MergeSort\bin\Debug\netcoreapp2.1\MergeSort.deps.json
+D:\Projects\ALG\ALG\src\MergeSort\bin\Debug\netcoreapp2.1\MergeSort.runtimeconfig.json
+D:\Projects\ALG\ALG\src\MergeSort\bin\Debug\netcoreapp2.1\MergeSort.runtimeconfig.dev.json
+D:\Projects\ALG\ALG\src\MergeSort\bin\Debug\netcoreapp2.1\MergeSort.dll
+D:\Projects\ALG\ALG\src\MergeSort\bin\Debug\netcoreapp2.1\MergeSort.pdb
+D:\Projects\ALG\ALG\src\MergeSort\obj\Debug\netcoreapp2.1\MergeSort.csproj.CoreCompileInputs.cache
+D:\Projects\ALG\ALG\src\MergeSort\obj\Debug\netcoreapp2.1\MergeSort.AssemblyInfoInputs.cache
+D:\Projects\ALG\ALG\src\MergeSort\obj\Debug\netcoreapp2.1\MergeSort.AssemblyInfo.cs
+D:\Projects\ALG\ALG\src\MergeSort\obj\Debug\netcoreapp2.1\MergeSort.dll
+D:\Projects\ALG\ALG\src\MergeSort\obj\Debug\netcoreapp2.1\MergeSort.pdb
+D:\Projects\ALG\ALG\src\MergeSort\obj\Debug\netcoreapp2.1\MergeSort.csprojAssemblyReference.cache

@@ -12,3 +12,10 @@ F:\project\ALG\ALG\src\ArrayDataStructure\obj\Debug\ArrayDataStructure.csprojAss
 F:\project\ALG\ALG\src\ArrayDataStructure\obj\Debug\ArrayDataStructure.csproj.CoreCompileInputs.cache
 F:\project\ALG\ALG\src\ArrayDataStructure\obj\Debug\ArrayDataStructure.exe
 F:\project\ALG\ALG\src\ArrayDataStructure\obj\Debug\ArrayDataStructure.pdb
+D:\Projects\ALG\ALG\src\ArrayDataStructure\bin\Debug\ArrayDataStructure.exe.config
+D:\Projects\ALG\ALG\src\ArrayDataStructure\bin\Debug\ArrayDataStructure.exe
+D:\Projects\ALG\ALG\src\ArrayDataStructure\bin\Debug\ArrayDataStructure.pdb
+D:\Projects\ALG\ALG\src\ArrayDataStructure\obj\Debug\ArrayDataStructure.csprojAssemblyReference.cache
+D:\Projects\ALG\ALG\src\ArrayDataStructure\obj\Debug\ArrayDataStructure.csproj.CoreCompileInputs.cache
+D:\Projects\ALG\ALG\src\ArrayDataStructure\obj\Debug\ArrayDataStructure.exe
+D:\Projects\ALG\ALG\src\ArrayDataStructure\obj\Debug\ArrayDataStructure.pdb

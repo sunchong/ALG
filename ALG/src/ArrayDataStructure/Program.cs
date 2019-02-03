@@ -16,14 +16,15 @@ namespace ArrayDataStructure
             //Address();
 
             // 数组越界
-            //Over();
+            OutOfIndexMini();
 
-            OutOfIndex();
+            //OutOfIndex();
 
             // .NET下的数组
             //CreateAbstractArray();
 
             //CreateArrayList();
+
 
             Console.ReadKey();
 
@@ -45,18 +46,18 @@ namespace ArrayDataStructure
             }
         }
 
-        unsafe private static void Over()
+        unsafe private static void OutOfIndex()
         {
             Console.WriteLine("-------------------------------------");
             int total_break = 0;
 
             int arr_count = 3;
 
-            
+
 
             Int32* index = stackalloc Int32[1];
-            index[0] = 0;
-            //index[0] = 1;
+            //index[0] = 0;
+            index[0] = 1;
 
             //double* d = stackalloc double[1];
             //d[0] = 0.01;
@@ -67,38 +68,36 @@ namespace ArrayDataStructure
             {
                 if (total_break >= 20)
                     break;
+                total_break++;
 
                 over_stack[index[0]] = 0;
 
                 Console.WriteLine($"【次数 {total_break}】>>> over_stack[{index[0]}]={over_stack[index[0]]}");
-                Console.WriteLine($"index[0] = {index[0]}");                
-                total_break++;
-
+                Console.WriteLine($"index[0] = {index[0]}");
             }
         }
 
-        unsafe private static void OutOfIndex()
+        unsafe private static void OutOfIndexMini()
         {
             int* i = stackalloc int[1];
 
-            i[0] = 0;
+            //i[0] = 0;
             i[0] = 1;
 
             double* d = stackalloc double[1];
-            d[0] = 0.01;
-
+            d[0] = 1;
 
             int* a = stackalloc int[3];
 
             for (; i[0] <= 3; i[0]++)
             {
+                a[i[0]] = 2;
 
-                a[i[0]] = 0;
+                Console.WriteLine($"int* i = {i[0]}");
 
-                Console.WriteLine(i[0]);
+                Console.WriteLine($"int* a[{i[0]}] = {a[i[0]]}");
 
-
-                Console.WriteLine(a[i[0]]);
+                Console.WriteLine($"double* d[0] = {d[0]}");
             }
 
         }
